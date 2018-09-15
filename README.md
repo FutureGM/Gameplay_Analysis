@@ -16,8 +16,9 @@ Application that will retrieve read multiple excel files to quickly breakdown, s
 ## Visualization Outputs
 * Tableau
 *https://public.tableau.com/profile/michael.diaz#!/*
-This application is still in development.  Pull requests are not ideal/preferred at this time.
 
-If you stop by, please let us know any ideas or questions you have about this project.
+*This application is still in development.  
+*Pull requests are not ideal/preferred at this time.
+*If you stop by, please let us know any ideas or questions you have about this project.
 
 *Email: mdiaz5215@yahoo.com*
